@@ -36,7 +36,7 @@ Activate the virtual environment:
 
 ---
 
-### 📥 2. Install Dependencies
+###  2. Install Dependencies
 
 Create a file named `requirements.txt` in the project folder with the following content:
 
