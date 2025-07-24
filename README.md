@@ -1,10 +1,10 @@
-# 🧠 Machine Learning Project
+#  Machine Learning Project
 
 This is a simple machine learning project that uses TensorFlow.
 
 ---
 
-## 👥 Authors
+##  Authors
 
 - **Abdelrahman Mostafa Mohamed**
 - **Ali Ahmed Elio Mahmoud**
@@ -13,11 +13,11 @@ This is a simple machine learning project that uses TensorFlow.
 
 
 
-## 📦 Requirements
+##  Requirements
 
 Before running the project, install the required Python packages.
 
-### 🐍 1. Create a Virtual Environment (optional but recommended)
+###  1. Create a Virtual Environment (optional but recommended)
 
 ```bash
 python -m venv venv
@@ -50,14 +50,14 @@ Then run:
 pip install -r requirements.txt
 ```
 
-> 💡 If you only need TensorFlow, you can also install it directly with:
+>  If you only need TensorFlow, you can also install it directly with:
 > ```bash
 > pip install tensorflow
 > ```
 
 ---
 
-### 🚀 3. Run the Project
+###  3. Run the Project
 
 Once the environment is ready and dependencies are installed, run the script:
 
@@ -67,7 +67,7 @@ python main.py
 
 ---
 
-## ❓ Troubleshooting
+##  Troubleshooting
 
 - If you see this error:
   ```
@@ -82,7 +82,7 @@ python main.py
 
 ---
 
-## 📁 Project Structure (Example)
+##  Project Structure (Example)
 
 ```
 ML-Project/
